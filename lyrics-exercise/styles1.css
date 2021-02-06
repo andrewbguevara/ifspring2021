@@ -1,0 +1,26 @@
+header {
+    background-color:black;
+    color:cornsilk;
+    text-indent: 100px;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 30px;
+}
+main {
+    text-align:left;
+    background-color:rgb(245,180,52);
+    color: white;
+    text-indent: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+article {
+    background-color:rgb(141,152,174);
+    color: rgb(244,203,95);
+}
+section {
+    background-color:rgb(244,203,95);
+    color: black;
+}
