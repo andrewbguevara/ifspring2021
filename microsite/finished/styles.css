@@ -1,0 +1,222 @@
+body {
+    padding: 0;
+	margin: 0;
+	background-color: #97dbf0;
+	text-align: center;
+}
+.nav-bar {
+    position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+    background-color: black;
+    z-index: 9999;
+}
+.bottom-nav-bar {
+    float: left;
+    top: 0;
+	left: 0;
+	width: 100%;
+    background-color: black;
+}
+.nav-bar .home {
+	color: white;
+	text-decoration: none;
+	font-size: 1.6em;
+    font-family:Arial, Helvetica, sans-serif;
+    float: right;
+	padding-top: 1.2em;
+    padding-right: 2em;
+    padding-bottom: 1.2em;
+}
+.nav-bar .bandMembers {
+	color: white;
+	text-decoration: none;
+	font-size: 1.6em;
+    font-family:Arial, Helvetica, sans-serif;
+    float: right;
+	padding-top: 1.2em;
+    padding-right: 2em;
+    padding-bottom: 1.2em;
+}
+.nav-bar .albums {
+	color: white;
+	text-decoration: none;
+	font-size: 1.6em;
+    font-family:Arial, Helvetica, sans-serif;
+    float: right;
+	padding-top: 1.2em;
+    padding-right: 2em;
+    padding-bottom: 1.2em;
+}
+.theNeighbourhood {
+    font-family: adobe-garamond-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 3em;
+    padding-left: 50px;
+    padding-top: .3em;
+    padding-bottom: .3em;
+    float: left;
+    text-decoration: none;
+    background-color: black;
+}
+.bottom-nav-text {
+    font-family: adobe-garamond-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 3em;
+    padding-left: 50px;
+    padding-top: .3em;
+    padding-bottom: .3em;
+    float: left;
+    text-decoration: none;
+    background-color: black;
+    margin: 0em;
+
+}
+.topImage {
+    float:left;
+    width: 100%;
+    margin-top: 5.5em;
+}
+.mainBox {
+    float:left;
+    position: relative;
+    text-align:left;
+    background-color: #3c4242;
+    color:white;
+    font-family: adobe-garamond-pro, serif;
+    font-size: 18pt;
+    line-height:1.5em;
+    padding-top: 2em;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2em;
+    width:60%;
+    left: 10%;
+}
+.textTitle {
+    font-family: adobe-garamond-pro, serif;
+    font-size: 24pt;
+    font-weight: bold;
+    text-decoration: none;
+}
+.subBox {
+    float:left;
+    position: relative;
+    text-align:left;
+    background-color: #687379;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    line-height:1.5em;
+    padding-top: 2em;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2em;
+    width:60%;
+    left: 10%;
+}
+.footer {
+    float: left;
+    background-color: black;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12pt;
+    padding-top: 2em;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2em;
+    text-align:center;
+    width: 80%;
+    line-height: 0.75em;
+}
+.mainPortrait {
+    float: right;
+    width: 45%;
+    margin: 0 0 2rem 2rem;
+}
+.subPortrait {
+    float:left;
+    width:35%;
+    margin: 0 2rem 2rem 0;
+    clear: both;
+}
+.using-grid {
+    display:grid;
+    grid-template-columns: 1fr;
+}
+.using-grid li {
+    width: 100%;
+    display: block;
+}
+.using-flex li{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+
+.grid img{
+    width: 90%;
+    border-right: 0.25em;
+}
+.grid {
+    padding: 0;
+}
+.grid li {
+    display: block;
+    width: 50%;
+    text-align: center;
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+}
+.using-floats li {
+    float: left;
+}
+.using-floats::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.album {
+    color: white;
+	text-decoration: none;
+	font-size: 1.6em;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom: 1.2em;
+    text-align:center;
+    line-height: 1.5em;
+    display: inline-block;
+}
+.topImageAlbum {
+    float:left;
+    width: 70%;
+    margin-top: 5.5em;
+    padding-left: 15%;
+}
+.bodyAlbum {
+    padding: 0;
+	margin: 0;
+	background-color: #3c4242;
+	text-align: center;
+}
+.bodyAlbum2 {
+    padding: 0;
+	margin: 0;
+	background-color: black;
+	text-align: center;
+}
+.bodyAlbum4 {
+    padding: 0;
+	margin: 0;
+	background-color: #76c0b3;
+	text-align: center;
+}
+.bottomPadding {
+    padding-bottom: 2rem;
+}
