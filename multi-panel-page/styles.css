@@ -1,0 +1,107 @@
+body {
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 18px;
+    margin: 0;
+}
+.topPanel {
+    height: 480px;
+    background-image: url(img/Truck.jpg);
+    background-size: cover;
+    color: #000000;
+    /* padding: 0px 20px 0px 20px; */
+}
+.panel2 {
+    height: 715px;
+    background-color: black;
+    width: 100%;
+    color: white;
+}
+.panel3 {
+    height: 689px;
+    background-color:#c79536;
+    width: 100%;
+}
+.panel4 {
+    height: 408px;
+    background-color: #982d43;
+    width: 100%;
+}
+.bottomPanel {
+    height: 92px;
+    background-color: #453f41;
+    width: 100%;
+}
+.topPanelImage {
+    width: 100%;
+}
+div {
+width: 960px;
+margin: auto;
+}
+h2 {
+    margin: 0;
+    text-align:center;
+    font-family: 'Archivo Narrow', sans-serif;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    font-size: 40px;
+}
+.bigImage {
+    float:right;
+    width: 400px;
+    height: 300px;
+    padding: 0 0 37px 37px;
+}
+h1 {
+    text-align: center;
+    font-size: 80px;
+    padding-top: 153px;
+    margin: 0px;
+}
+.subheading {
+    font-size: 30px;
+    text-align: center;
+}
+.topPanel div p {
+    margin: 0;
+    font-weight:bold;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 32px;
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+    float: left;
+}
+li {
+    display: flex;
+    align-items: left;
+    margin-bottom: 24px;
+}
+.littleImage {
+    width: 200px;
+    height: 150 px;
+}
+h4 {
+    margin: 0;
+    font-size: 20px;
+}
+li section {
+    padding-left: 12px;
+}
+li section p {
+    margin-top: 5px;
+    width: 90%;
+}
+.bottomText {
+    text-align:center;
+    font-size: 19pt;
+    width: 74%;
+    padding-left: 13%;
+    padding-top: 10px;
+}
+.bottomPanel p {
+    margin-top: 0;
+    padding-top: 40px;
+}
