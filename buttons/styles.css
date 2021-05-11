@@ -1,0 +1,344 @@
+a#btn_samsung {
+    display: inline-block;
+    position: relative;
+    width: 100px;
+    margin-top: 100px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    color: #1428a0;
+    transition: all .2s;
+}
+a#btn_samsung:hover {
+    color:blueviolet;
+    font-size: 35px;
+    padding-right: 7%;
+}
+a#btn_newyorker {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family: 'Marcellus', serif;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    transition: all .2s;
+}
+a#btn_newyorker:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+a#btn_fitbit {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family: 'Righteous', cursive;
+    font-size: 30px; 
+    text-decoration: none;
+    color: #002a3a;
+    transition: all .2s;
+}
+a#btn_fitbit:hover {
+    color: #00B0B9;
+}
+a#btn_moo {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    color: #00945e;
+    transition: all .2s;
+}
+a#btn_moo:hover {
+    padding-left: 10%;
+}
+a#btn_thecolorrun {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    color: #ec008c;
+}
+a#btn_thecolorrun:hover {
+    color:deeppink;
+    font-size: 32px;
+}
+a#btn_thecolorrun:hover span:nth-of-type(1) {
+    color:darkcyan;
+    font-size: 32px;
+}
+a#btn_thecolorrun:hover span:nth-of-type(2) {
+    color: orange;
+    font-size: 32px;
+}
+a#btn_hulkhogan {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family: 'Metal Mania', cursive;
+    font-size: 30px;
+    text-decoration: none;
+    color: #d3252f;
+    transition: all .2s;
+}
+a#btn_hulkhogan:hover {
+    color:rgb(102, 6, 6);
+    font-weight:900;
+    font-size: 40px;
+}
+a#btn_teslamotors {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    color: #e51837;
+    transition: all .2s;
+}
+a#btn_teslamotors:hover {
+    color:forestgreen;
+    font-size: 25px;
+    font-style:italic;
+}
+a#btn_thetonightshow {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    position:relative;
+    margin-top: 30px;
+    padding-top: 60px;
+    border-radius: 100px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    transition: all .2s;
+}
+a#btn_thetonightshow:hover {
+    font-size: 40px;
+    font-weight:bold;
+    width: 250px;
+    height: 250px;
+    border-radius: 125px;
+    margin-top: 5px;
+    padding-top:75px;
+    background-color:rgb(5, 5, 80);
+}
+a#btn_nike {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family: futura-pt-condensed, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 30px;
+    text-decoration: none;
+    color: orange;
+    transition: all .2s;
+}
+a#btn_nike:hover {
+    padding-right:10px;
+    font-style:oblique;
+    font-size: 40px;
+    color:darkorange;
+}
+a#btn_bissingers {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 30px;
+    text-decoration: none;
+    color: #c59a3e;
+    transition: all .2s;
+}
+a#btn_bissingers:hover {
+    color:black;
+    font-style:italic;
+    font-size:25px;
+}
+a#btn_cartoonnetwork {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    width: 50px;
+    height: 50px;
+    padding-top: 7px;
+    box-sizing: border-box;
+    font-family: 'Titan One', cursive;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    transition: all .2s;
+}
+a#btn_cartoonnetwork:hover {
+    letter-spacing: 0.2rem;
+    font-size: 60px;
+    padding-top: 12px;
+    color: #00aeef;
+    width: 100px;
+    height: 100px;
+    margin-top: 75px;
+    transform: rotate(-5deg);
+}
+a#btn_craigslist {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: blue;
+}
+a#btn_craigslist:hover {
+    color: #552e87;
+}
+a#btn_lyft {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    text-decoration: none;
+    color: #EA0B8C;
+    transition: all .5s;
+}
+a#btn_lyft:hover {
+    margin-top: 50px;
+    background-color: plum;
+    color: white;
+    padding-top: 28px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    box-sizing:border-box;
+}
+a#btn_sardella {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    width: 150px;
+    box-sizing:border-box;
+    border-radius: 20px;
+    font-family: 'Truculenta', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: #5ecfcd;
+    color: #001abc;
+    transition: all .2s;
+}
+a#btn_sardella:hover {
+    font-size: 35px;
+    color: #5ecfcd;
+    background-color:#001abc;
+    margin-top: 98px;
+}
+a#btn_ideo {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    padding: 0 15px 0 15px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: #e1392c;
+    color: white;
+    transition: all .2s;
+}
+a#btn_ideo:hover {
+    font-size: 50px;
+    letter-spacing: 1rem;
+    padding-left: 30px;
+}
+a#btn_harley-davidson {
+    display: inline-block;
+    position: relative;
+    padding: 10px 10px 10px 10px;
+    margin-top: 100px;
+    font-family: 'Rubik Mono One', sans-serif;
+    text-decoration: none;
+    background-color: black;
+    color: orange;
+    transition: all .2s;
+}
+a#btn_harley-davidson:hover {
+    font-size: 20px;
+    width: 150px;
+    margin-top: 94px;
+    padding-right: 10px;
+}
+a#btn_coca-cola {
+    display: inline-block;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    box-sizing:border-box;
+    border-radius: 125px;
+    margin-top:5px;
+    padding-top: 100px;
+    font-family: 'Sonsie One', cursive;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color:rgb(102, 6, 6);
+    transition: all 0.5s;
+}
+a#btn_coca-cola:hover {
+    background-color: #F40009;
+}
+a#btn_apple {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    color: #A2AAAD;
+    transition: all .2s;
+}
+a#btn_apple:hover {
+    color: #C8A2C8;
+}
+a#btn_ibm {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    font-family: 'Zilla Slab', serif;
+    font-size: 30px;
+    text-decoration: none;
+    color: #5a87c5;
+    letter-spacing: 0;
+}
+a#btn_ibm:hover {
+    width: 1px;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 60px;
+    padding-right: 20px;
+}
+a#btn_nerf {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 0 15px 0 15px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: #de3232;
+    color: #fcf14a;
+    transition: all .75s;
+}
+a#btn_nerf:hover {
+    transform: rotate(360deg)
+}
